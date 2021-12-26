@@ -5,3 +5,4 @@ def variable(i):
     else:
         return (i-1)+(i-2)
 print(variable(n))
+
